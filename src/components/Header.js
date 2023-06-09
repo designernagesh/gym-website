@@ -1,10 +1,7 @@
-import Navbar from "./Navbar";
-
 const Header = () => {
   return (
-    <section id="main">
-      <Navbar />
-      <div className="name">
+    <section id="intro">
+      <div className="header">
         <h2>STEPUP YOUR</h2>
         <h1>
           FITNESS <span>WITH US</span>
