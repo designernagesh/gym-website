@@ -27,7 +27,7 @@ const Navbar = () => {
 
       <ul className="menu">
         <li>
-          <Link to="main">Home</Link>
+          <Link to="intro">Home</Link>
         </li>
         <li>
           <Link to="features">Features</Link>
